@@ -23,4 +23,4 @@ Choos
 ![1](docs/img/resolutions.png)
 
 ### SteamVR Firmware installation video :
-[![Sideloader SteamVR firmware installation](https://img.youtube.com/vi/d8IYtZEhEC0/0.jpg)](https://www.youtube.com/watch?v=d8IYtZEhEC0)
+[![Sideloader SteamVR firmware installation]

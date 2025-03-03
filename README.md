@@ -1,6 +1,6 @@
 # My Custom Hardware List
 
-![1](docs/img/Sideloader.png)
+![1](imgages/battery_pcb.png)
 
 # Gyro Core Version
 ![1](docs/img/custom_hardware_version.JPG)
